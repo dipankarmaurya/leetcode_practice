@@ -1,5 +1,10 @@
+
+     // BFS method to check if a given graph is bipartite or not
+
 #include<bits/stdc++.h>
 using namespace std;
+
+
 bool isbipartite(vector<int>adj[],vector<int>&colored,int node){
          colored[node]=1;
          queue<int>que;
