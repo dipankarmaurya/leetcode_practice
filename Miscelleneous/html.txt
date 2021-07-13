@@ -1,0 +1,8 @@
+<!DOCTYUPE html>
+<html>
+<body>
+<h2>absolute urls</h2>
+<p><a href = "http://www.google.com/"></a>
+</p>
+</body>
+</html> 

@@ -1,0 +1,14 @@
+# ==========================================
+# VENDOR DAEMON Section
+# ==========================================
+
+VENDOR maplelmg
+# ==========================================
+# FEATURE Section
+# ==========================================
+FEATURE Maple2019 maplelmg 7777.7777 permanent uncounted HOSTID=INTERNET=*.*.*.* ISSUER= ISSUED= NOTICE= SN= TS_OK SIGN=
+
+FEATURE Maple2019Excel maplelmg 7777.7777 permanent uncounted HOSTID=INTERNET=*.*.*.* ISSUER= ISSUED= NOTICE= SN= TS_OK SIGN=
+FEATURE MaplePlayer2019 maplelmg 7777.7777 permanent uncounted HOSTID=INTERNET=*.*.*.* ISSUER= ISSUED= NOTICE= SN= TS_OK SIGN=
+
+FEATURE MapleReader2019 maplelmg 7777.7777 permanent uncounted HOSTID=INTERNET=*.*.*.* ISSUER= ISSUED= NOTICE= SN= TS_OK SIGN=
