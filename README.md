@@ -1,2 +1,2 @@
 # leetcode_practice
-uploading leetcode practice question od dsa
+uploading leetcode practice question of dsa
