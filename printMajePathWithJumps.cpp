@@ -14,7 +14,7 @@ using namespace std;
         for(int i=1;i<=dr-sr;i++){
             printMazePaths(sr+i, sc, dr,  dc,  psf+"h"+to_string(i));
         }
-        for(int i=1;i<dc-sc;i++){
+        for(int i=1;i<=dc-sc;i++){
             printMazePaths(sr, sc+i, dr,  dc,  psf+"v"+to_string(i));
         }
         for(int i=1;i<=dr-sr&&i<=dc-sc;i++){

@@ -4,7 +4,7 @@ using namespace std;
 
 void targetSum(vector<int>&v,int i,int tar,string osf){
 	if(i==v.size()){
-			if(tar==0)
+		if(tar==0)
 		cout<<osf<<"."<<endl;
 		return;
 	
