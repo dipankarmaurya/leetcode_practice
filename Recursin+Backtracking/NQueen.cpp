@@ -33,14 +33,8 @@ void placedQueen(vector<vector<int>>&board,int row,string qsf){
 		placedQueen(board,row+1,qsf+to_string(row)+"-"+to_string(col)+", ");
 		board[row][col]=0;	
 		}
-	}
-	
-	
+	}	
 }
-
-
-
-
 
 int main(){
 	int n;
